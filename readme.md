@@ -2,6 +2,11 @@
 
 A robust backend service built with FastAPI to provide useful information for students in a centralized way. It acts as a digital assistant, exposing structured endpoints for accessing class timetables, bus timings, and canteen menus with secure authentication.
 
+## API
+https://campus-helper.onrender.com
+  - NB: [render loads slow]
+
+
 ## 🚀 Features
 
 - **Class Timetable Management**: View and manage class schedules by day with room assignments
