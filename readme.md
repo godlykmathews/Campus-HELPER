@@ -2,8 +2,11 @@
 
 A robust backend service built with FastAPI to provide useful information for students in a centralized way. It acts as a digital assistant, exposing structured endpoints for accessing class timetables, bus timings, and canteen menus with secure authentication.
 
-# Demo Video
+```
+Demo Video
+```
 https://drive.google.com/file/d/1_TuXayMoql2s3THZMxqg11OYWFLw5-JX/view?usp=drive_link
+
 <img width="1581" height="897" alt="image" src="https://github.com/user-attachments/assets/2f9a119b-bccc-471e-a317-8acce6cf339c" />
 
 
