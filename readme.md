@@ -1,4 +1,4 @@
-# Campus Helper API
+# Campus Guide API
 
 A robust backend service built with FastAPI to provide useful information for students in a centralized way. It acts as a digital assistant, exposing structured endpoints for accessing class timetables, bus timings, and canteen menus with secure authentication.
 
