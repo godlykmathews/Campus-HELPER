@@ -12,8 +12,8 @@ https://drive.google.com/file/d/1_TuXayMoql2s3THZMxqg11OYWFLw5-JX/view?usp=drive
 ```
 Frontend
 ```
-Live: https://campus-helper-frontend.vercel.app/
-Repo: https://github.com/godlykmathews/campus-helper-frontend
+- Live: https://campus-helper-frontend.vercel.app/
+- Repo: https://github.com/godlykmathews/campus-helper-frontend
 
 
 
