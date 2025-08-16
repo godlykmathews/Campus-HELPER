@@ -16,8 +16,6 @@
     "DATABASE_URL": "@database_url",
     "SECRET_KEY": "@secret_key",
     "ALGORITHM": "HS256",
-    "ACCESS_TOKEN_EXPIRE_MINUTES": "30",
-    "APP_NAME": "CampusHelper",
     "DEBUG": "False",
     "ENVIRONMENT": "production"
   },
