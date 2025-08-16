@@ -2,31 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "app/main.py",
+      "src": "api/index.py",
       "use": "@vercel/python"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "app/main.py"
+      "dest": "api/index.py"
     }
-  ],
-  "env": {
-    "DATABASE_URL": "@database_url",
-    "SECRET_KEY": "@secret_key",
-    "ALGORITHM": "HS256",
-    "DEBUG": "False",
-    "ENVIRONMENT": "production"
-  },
-  "build": {
-    "env": {
-      "PYTHONPATH": "."
-    }
-  },
-  "functions": {
-    "app/main.py": {
-      "maxDuration": 30
-    }
-  }
+  ]
 }
